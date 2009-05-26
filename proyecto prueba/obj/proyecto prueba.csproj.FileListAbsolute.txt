@@ -1,0 +1,7 @@
+C:\Documents and Settings\ea23123\My Documents\Visual Studio 2005\Projects\proyecto prueba\proyecto prueba\bin\Debug\proyecto prueba.exe
+C:\Documents and Settings\ea23123\My Documents\Visual Studio 2005\Projects\proyecto prueba\proyecto prueba\bin\Debug\proyecto prueba.pdb
+C:\Documents and Settings\ea23123\My Documents\Visual Studio 2005\Projects\proyecto prueba\proyecto prueba\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ea23123\My Documents\Visual Studio 2005\Projects\proyecto prueba\proyecto prueba\obj\Debug\proyecto_prueba.Properties.Resources.resources
+C:\Documents and Settings\ea23123\My Documents\Visual Studio 2005\Projects\proyecto prueba\proyecto prueba\obj\Debug\proyecto prueba.csproj.GenerateResource.Cache
+C:\Documents and Settings\ea23123\My Documents\Visual Studio 2005\Projects\proyecto prueba\proyecto prueba\obj\Debug\proyecto prueba.exe
+C:\Documents and Settings\ea23123\My Documents\Visual Studio 2005\Projects\proyecto prueba\proyecto prueba\obj\Debug\proyecto prueba.pdb
